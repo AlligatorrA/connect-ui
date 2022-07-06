@@ -1,0 +1,30 @@
+.navbar {
+    background-color: aliceblue;
+    font-weight: 900;
+    color: darkgray;
+}
+
+.m-2 {
+    margin: 1rem;
+}
+
+.cur {
+    cursor: pointer;
+}
+
+.css-1b0ct7u-MuiToolbar-root {
+    align-items: flex-start;
+}
+
+@media screen and (max-width:800px) {
+
+    .css-heg063-MuiTabs-flexContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+
+    }
+
+
+}
